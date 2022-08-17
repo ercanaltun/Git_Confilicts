@@ -12,6 +12,7 @@ public class A01_LocaldeConfilictOlusturma {
         //Not: Branch Master değilken remote'a push yapilirsa confilict verir!
         //Not: Branch localdeyken(ercan) git pull yapamazsin.MUTLAKA branch master olmali
         // Not:Sanki bu kez confilict olmadi...
+        //Localde confilict denemesi yapiyoruz
 
 
     }
