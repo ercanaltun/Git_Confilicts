@@ -14,6 +14,7 @@ public class A01_LocaldeConfilictOlusturma {
         // Not:Sanki bu kez confilict olmadi...
         //deneme 2 local confilict
         //Localde confilict denemesi yapiyoruz
+        // son deneme
 
 
 
