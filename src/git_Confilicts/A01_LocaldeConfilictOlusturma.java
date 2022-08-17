@@ -13,6 +13,7 @@ public class A01_LocaldeConfilictOlusturma {
         //Not: Branch localdeyken(ercan) git pull yapamazsin.MUTLAKA branch master olmali
         // Not:Sanki bu kez confilict olmadi...
         //deneme 2 local confilict
+        //Localde confilict denemesi yapiyoruz
 
 
 
