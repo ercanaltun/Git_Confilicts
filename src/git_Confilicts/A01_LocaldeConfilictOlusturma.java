@@ -9,6 +9,7 @@ public class A01_LocaldeConfilictOlusturma {
         System.out.println("Lokalimizde 5. confilict denemesi branch master");
         System.out.println("Lokalimizde 4. confilict denemesi branch ercan");
         System.out.println("Lokalimizde 6.. confilict denemesi branch master");
+        //Not: Branch Master değilken remote'a push yapilirsa confilict verir!
 
 
     }
